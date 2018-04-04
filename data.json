@@ -5,18 +5,40 @@
   "education":[
     {
       "degree":"ssc",
-      "school":"school name",
+      "school":"Infant",
       "data":["2005","80%"]
     },
     {
     "degree":"Intermediate",
-    "school":"school name",
+    "school":"Mangal",
     "data":["2007","80%"]
   },
   {
     "degree":"B.TECH",
-    "school":"school name",
+    "school":"vidyanikethan",
     "data":["2011","80%"]
   }
-  ]
+],
+"skills":[
+  {
+    "name":"operating system",
+    "info":["windows","linux","fedora","redhat"]
+    },
+  {
+    "name":"Languages",
+    "info":["c","c++","java","python"]
+      },
+  {
+    "name":"Database",
+    "info":["oracle","mysql"]
+    },
+  {
+    "name":"Web Technologies",
+    "info":["Html","Javascript","css"]
+  },
+{
+  "name":"Frameworks",
+  "info":["Bootstrap",".net"]
+}
+]
 }
